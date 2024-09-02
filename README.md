@@ -19,6 +19,8 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 **Visualization**
 - [Aprende Latex desde cero](https://drive.google.com/file/d/1G8hMUVjyxUI00KclPEWRdaNEKbS8jT3I/view?usp=sharing)| Miriadax
+- [Tablas dinámicas, dashboards, macros y más con google sheet](https://drive.google.com/file/d/1xSrbvFS9pVu3YoFmST8DyyQ-hbwkkkI4/view?usp=sharing)| Udemy
 
 **Database**
 - [Curso de introducción: SQL](https://drive.google.com/file/d/1VCO2YAZ0fgJ0tZ9GPQAjskwxxkNoxG_h/view?usp=sharing)| Desafío Latam
+- [Introducción al business intelligence y la minería de datos](https://drive.google.com/file/d/1D3IOl5upFOdjHjo_l2L1KyzyoZ1vN6sr/view?usp=sharing)| Udemy
