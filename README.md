@@ -29,7 +29,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 **Visualization**
 - [Aprende Latex desde cero](https://drive.google.com/file/d/1G8hMUVjyxUI00KclPEWRdaNEKbS8jT3I/view?usp=sharing)| Miriadax
 - [Tablas dinámicas, dashboards, macros y más con google sheet](https://drive.google.com/file/d/1xSrbvFS9pVu3YoFmST8DyyQ-hbwkkkI4/view?usp=sharing)| Udemy: José Lopez
-- [Aprende todo sobre Looker Studio 2024 (Data Studio)]()| Udemy: José Aguilar
+- [Aprende todo sobre Looker Studio 2024 (Data Studio)](https://drive.google.com/file/d/1Oq-ZTpgjHT2XnWzVPfhlJoU2Bnc9C5ia/view?usp=sharing)| Udemy: José Aguilar
 - [Introducción al mundo de la Inteligencia Artificial]()| Udemy: Alejandro Aquino
 
 **Database**
@@ -37,7 +37,6 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 - [Introducción al business intelligence y la minería de datos](https://drive.google.com/file/d/1D3IOl5upFOdjHjo_l2L1KyzyoZ1vN6sr/view?usp=sharing)| Udemy: Miguel Aparicio
 - [Advanced SQL: MySQL Data Analysis and Business Intelligent]()| Udemy: Maven Analytics
 
-- []()| 
 
 
 
