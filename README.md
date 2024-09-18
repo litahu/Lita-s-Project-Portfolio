@@ -12,7 +12,7 @@ Project Link | Associated | Tools | Project Description
 
 ### 🏆 Complated Course and Certification
 
-- [Microsoft Excel: Advanced Excel Formulas & Function ]() | Udemy: Maven Analytics
+- [Aprende todo sobre Looker Studio 2024](https://drive.google.com/file/d/1Oq-ZTpgjHT2XnWzVPfhlJoU2Bnc9C5ia/view?usp=sharing) | Udemy: José Aguilar
 - [SQL for Data Analysis : Beginner MySQL Business Intelligent](https://drive.google.com/file/d/1Xhe2ze5Y0L9r3BT4PvJ2muuW67NDVc97/view?usp=sharing) | Udemy: Maven Analytics
 - [ChatGPT: optimizando la calidad de los resultados](https://drive.google.com/file/d/1ELFb_F_wOWUzbIYtL65roOaZO0k58IM1/view?usp=sharing) | Alura Latam + Oracle
 - [Lógica de programación con Javascript](https://drive.google.com/file/d/15h6JMN9Cv0-AQ54kNP-N1lhuYr_DYecQ/view?usp=sharing) | Alura Latam
