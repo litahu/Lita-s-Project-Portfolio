@@ -26,7 +26,7 @@ Project Link | Associated | Area | Tools | Project Description
 ### 📂 Dashboard
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
-👩🏻‍💻 [Human Resource Attrition Analysis](https://www.canva.com/design/DAFpzCA0Ewk/DIvoXzodwMmqbPaNb1jIvQ/view?utm_content=DAFpzCA0Ewk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (EDA, data analysis) | Challenge Task - IYKRA | Tableau | Joined tables within the dataset to conduct an analysis focused on identifying the demographic traits of employees who are more likely to leave the company, as well as an exploration of the factors that influence employee attrition.
+📊 [Gestión financiera de la fundación Potenciar Solidario](https://lookerstudio.google.com/reporting/fe2e093d-4f66-41bf-92c0-19d9f1b21f1b) (EDA, data analysis) | Challenge - Guayerd| Looker | Se analizaron los datos de la fundación del 2019 - 2024 para identificar los rasgos demográficos de los donantes que tienen mayor probabilidad de abandonar la fundación, así como los factores de su gestión financiera
 
 
 
