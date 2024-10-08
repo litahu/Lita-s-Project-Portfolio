@@ -26,7 +26,7 @@ Project Link | Associated | Area | Tools | Project Description
 ### 📂 Dashboard
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
-📊 [Gestión financiera de la fundación Potenciar Solidario](https://lookerstudio.google.com/reporting/fe2e093d-4f66-41bf-92c0-19d9f1b21f1b) (EDA, data analysis) | Challenge - Guayerd| Looker | Se analizaron los datos de la fundación del 2019 - 2024 para identificar los rasgos demográficos de los donantes que tienen mayor probabilidad de abandonar la fundación, así como los factores de su gestión financiera
+📊 [Gestión financiera de la fundación Potenciar Solidario](https://lookerstudio.google.com/reporting/fe2e093d-4f66-41bf-92c0-19d9f1b21f1b) (EDA, data analysis) | Challenge - Guayerd| "Looker" | Se analizaron los datos de la fundación del 2019 al 2024, para identificar los rasgos demográficos de los donantes que tienen mayor probabilidad de abandonar la fundación, así como los factores de su gestión financiera.
 
 
 
