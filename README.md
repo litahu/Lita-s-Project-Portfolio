@@ -11,6 +11,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 <br>
 <br>
 ### 📂 Machine Learning
+
 Project Link | Area | Tools | Project Description
 ---|---|---|---
 🛒 [Intención de compra de los compradores en línea]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque aleatorio demostró el mejor rendimiento, logrando una puntuación ROC-AUC del 90%. A través de la simulación, se proyectó que este modelo podría aumentar potencialmente la tasa de conversión en un 58%.
@@ -22,7 +23,9 @@ Project Link | Area | Tools | Project Description
 
 <br>
 <br>
+
 ### 📂 Data Analysis
+
 Project Link | Area | Tools | Project Description
 ---|---|---|---
 🚲 [Evaluación de la calidad de los datos y segmentación de clientes] | Manipulación de datos, EDA, análisis de datos | pandas, matplotlib | Desarrollé y optimicé una estrategia de mercado para una empresa de bicicletas mediante el análisis de sus datos. Realicé una evaluación de la calidad de los datos e identifiqué estrategias para mitigar cualquier problema de calidad de los datos. Realicé una segmentación de clientes utilizando un análisis RFM(actualidad, frecuencia y valor monetario) simple para recomendar nuevos clientes potenciales para marketing dirigido. Además proyecté un panel para visualizar la demografía de los clientes
@@ -30,19 +33,24 @@ Project Link | Area | Tools | Project Description
 
 <br>
 <br>
+
 ### 📂 SQL
+
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
 
 <br>
 <br>
+
 ### 📂 Dashboard
+
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
 📊 [Gestión financiera de la fundación Potenciar Solidario](https://lookerstudio.google.com/reporting/fe2e093d-4f66-41bf-92c0-19d9f1b21f1b) (EDA, data analysis) | Challenge - Guayerd| "Looker" | Se analizaron los datos de la fundación del 2019 al 2024, para identificar los rasgos demográficos de los gastos y las caracteristícas de los donantes que tienen mayor probabilidad de abandonar la fundación, así como los factores de su gestión financiera.
 
 <br>
 <br>
+
 ### 🏆 Complated Course and Certification
 
 - [Aprende todo sobre Looker Studio 2024](https://drive.google.com/file/d/1Oq-ZTpgjHT2XnWzVPfhlJoU2Bnc9C5ia/view?usp=sharing) | Udemy: José Aguilar
