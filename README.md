@@ -38,6 +38,9 @@ Project Link | Area | Tools | Project Description
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
+🏍[Análisis de rendimiento del negocio de motocicletas ] | Miniproyecto de Datacamp | Análisis de datos | MySQL Workbench | Se evaluó el desempeño de ventas de motocicletas en Brasil mediante el análisis del crecimiento de la actividad anual de los clientes, la calidad anual de la categoría de productos y el uso anual de los tipos de pago. El análisis utilizó conjuntos de datos que contenían información sobre clientes, vendedores, productos y pedidos.
+🎁[Análisis de gestión de donaciones] | Miniproyecto de Guayerd| Análisis de datos | MySQL Workbench |Es un proyecto basado en un curso cuyo objetivo es analizar la gestión operativa de la Fundación "Potenciar solidario", responder varias preguntas financieras utilizando SQL y cubrir temas como el balance de costos e ingresos, análisis de proveedores y análisis a nivel de donantes. 
+
 
 <br>
 <br>
