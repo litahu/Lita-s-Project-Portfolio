@@ -10,6 +10,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 <br>
 <br>
+
 ### 📂 Machine Learning
 
 Project Link | Area | Tools | Project Description
