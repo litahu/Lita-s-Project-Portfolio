@@ -2,8 +2,8 @@
 Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
 
 **Table of Contens :**
-- [Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio#-python:-machine-learning)
-- [Data Analysis](https://github.com/litahu/Lita-s-Project-Portfolio#-python:-data-analysis)
+- [Python: Data Analysis and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio#-Python:-Data-Analysis-and-Machine-Learning)
+- [Econometría: Modelos Pricing](https://github.com/litahu/Lita-s-Project-Portfolio#-Econometría:-Modelos-Pricing)
 - [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sqlg)
 - [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio#-dashboard)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio#-complated-course-and-certification)
@@ -11,7 +11,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 <br>
 <br>
 
-### 📂 Machine Learning
+### 📂 Python: Data Analysis and Machine Learning
 
 Project Link | Area | Tools | Project Description
 ---|---|---|---
@@ -25,7 +25,7 @@ Project Link | Area | Tools | Project Description
 <br>
 <br>
 
-### 📂 Data Analysis
+### 📂 Econometría: Modelos Pricing
 
 Project Link | Area | Tools | Project Description
 ---|---|---|---
