@@ -52,8 +52,8 @@ Project Link | Associated | Tools | Project Description
 ---|---|---|---
 📊 [Gestión financiera de la fundación Potenciar Solidario](https://lookerstudio.google.com/reporting/fe2e093d-4f66-41bf-92c0-19d9f1b21f1b) (EDA, data analysis) | Challenge - Guayerd| "Looker" | Se analizaron los datos de la fundación del 2019 al 2024, para identificar los rasgos demográficos de los gastos y las caracteristícas de los donantes que tienen mayor probabilidad de abandonar la fundación, así como los factores de su gestión financiera.
 🏡 [Campaña promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | "Tableau" | Frente al desafío de posicionamiento de la Startup logré identificar las dos regiones de venta donde la campaña publicitaria está actuando mejor(medí su promedio del ROMI, gasto por campaña e ingresos percibidos). Por otro lado, detecté los clientes potenciales para el próximo lanzamiento de marketing.
-🚚 [Reporte de Producción](https://docs.google.com/spreadsheets/d/1yJpvXgu2U33HwTqBd0Wrj6vw_QXCpFnw3IvQLADPcMY/edit?usp=sharing!
-) | Lay international Logistic | "Google Sheet" | Analize el histórico de órdenes por categoría y estado productivo.
+🚚 [Reporte de Producción](https://docs.google.com/spreadsheets/d/1yJpvXgu2U33HwTqBd0Wrj6vw_QXCpFnw3IvQLADPcMY/edit?usp=sharing!) | Lay international Logistic | "Google Sheet" | Analize el histórico de órdenes por categoría y estado productivo.
+
 <br>
 <br>
 
