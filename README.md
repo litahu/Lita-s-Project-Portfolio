@@ -50,7 +50,7 @@ Project Link | Associated | Area | Tools | Project Description
 
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
-📊 [Capatación de fondos de la fundación Potenciar Solidario](https://lookerstudio.google.com/s/j9wb4_hxn4w)| Challenge - Guayerd| "Looker" | Se analizaron la gestión operativa que sostiene la fundación. Logré identificar: rasgos demográficos y caracteristícas de sus donantes y proveedores
+📊 [Capatación de fondos](https://lookerstudio.google.com/s/j9wb4_hxn4w)| Challenge - Guayerd| "Looker" | Realize la limpieza de datos y logré analizar la gestión operativa de la fundación Potenciar Solidario( identificando los rasgos demográficos, y los perfiles de sus donantes y proveedores). Con la finalidad de brindar recomendaciones para que la ONG pueda mejorar su gestión operativa y pueda direccionar una estrategia de fidelización a sus principales donantes.
 🏡 [Campaña promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | "Tableau" | Frente al desafío de posicionamiento de la Startup logré identificar las regiones de venta con mejor desempeño publicitario(medí su promedio ROMI, gasto por campaña e ingresos percibidos). Por otro lado, detecté los clientes potenciales para el próximo lanzamiento de marketing.
 🚚 [Reporte de Producción](https://docs.google.com/spreadsheets/d/1yJpvXgu2U33HwTqBd0Wrj6vw_QXCpFnw3IvQLADPcMY/edit?usp=sharing!) | Lay international Logistic | "Google Sheet" | Analize el histórico de órdenes por categoría y estado productivo.
 
