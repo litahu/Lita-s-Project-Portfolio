@@ -4,7 +4,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 **Table of Contens :**
 - [Python: Data Analysis and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio#-Python:-Data-Analysis-and-Machine-Learning)
 - [Econometría: Modelos Pricing](https://github.com/litahu/Lita-s-Project-Portfolio#-Econometría:-Modelos-Pricing)
-- [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sqlg)
+- [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
 - [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio#-dashboard)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio#-complated-course-and-certification)
 
