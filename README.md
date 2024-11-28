@@ -2,25 +2,34 @@
 Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
 
 **Table of Contens :**
-- [Python: Data Analysis and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio#-Python:-Data-Analysis-and-Machine-Learning)
-- [Econometría: Modelos Pricing](https://github.com/litahu/Lita-s-Project-Portfolio#-Econometría:-Modelos-Pricing)
-- [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
+
 - [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio#-dashboard)
+- [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
+- [Econometría: Modelos Pricing](https://github.com/litahu/Lita-s-Project-Portfolio#-Econometría:-Modelos-Pricing)
+- [Python: Data Analysis and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio#-Python:-Data-Analysis-and-Machine-Learning)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio#-complated-course-and-certification)
-
+  
 <br>
 <br>
 
-### 📂 Python: Data Analysis and Machine Learning
+### 📂 Dashboard
 
-Project Link | Area | Tools | Project Description
+Project Link | Associated | Tools | Project Description
 ---|---|---|---
-🛒 [Intención de compra de los compradores en línea]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque aleatorio demostró el mejor rendimiento, logrando una puntuación ROC-AUC del 90%. A través de la simulación, se proyectó que este modelo podría aumentar potencialmente la tasa de conversión en un 58%.
-✈ [Segmentación de clientes de aerolineas basada en el modelo LRFMC utilizando K-Means]() | Manipulación de datos EDA, aprendizaje no supervisado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yellowbrick | Se desarrolló un modelo de agrupamiento empleando puntajes LRFMC y el algoritmo K-Means. En ese sentido, se identificó 5 grupos de clientes: nuevos usuarios, un 20 % son clientes leales, un 19% son potenciales leales, un 18% necesita atención y un 16% está hibernando.
-😁 [Predecir la personalidad del cliente para impulsar una campaña de marketing ]() | Manipulación de datos, EDA, aprendizaje no supervizado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yelowbrick | Bajo el modelo de K-Means, se analizaron las características de los clientes de una tienda online de alimentos. Antes de la agrupación se realizó una descomposición y se determinó el mejor grupo utilizandó el puntaje de inercia. Como resultado se obtuvo: 4 grupos basados en el comportamiento del cliente, considerando factores como el número de transacciones, los niveles de gasto, la respuesta de las campañas y la frecuencia de las visitas al sitio web
-📲 [Predecir la clasificación de clientes en anuncios en los que hizo clic]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn, scikit-learn, shap, etc | Se desarrolló un modelo de aprendizaje automático y se experimentó con varios algoritmos, lo que finalmente determinó una precisión del 96% en el ajuste del modelo Random Forest. Se analizaron características influyentes clave con SHAP para mejorar la segmentación y lograr mejores tasas de conversion y rentabilidad
-☎ [Abandono de clientes de telecomunicaciones]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn, scikit-learn | Se desarrolló un modelo de aprendizaje automático para predecir la pérdidad de clientes en una empresa de Telecomunicaciones. El modelo Random Forest arrojó el puntaje de precisión más alto del 89%, y la característica más influyente fue el cargo diario total. Un cargo más alto indica un mayor potencial de pérdida de clientes 
-💰 [Predecir el impago de préstamos de los clientes]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn,scikit-learn, scipy | Predicción de impagos de clientes o dificultades de pago de clientes. Limpieza de datos en datos sin procesar y analisis más de 100 carcaterísticas mediante métodos estadísticos. El mejor modelo logró una precisión del 87% y un AUC del 73% mediante regresión logística. Creación de una simulación mediante la implementación de una aplicación web para la predicción de la aprobación de préstamos mediante Streamlit.
+📊 [Captación de fondos](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| "Looker" | Realicé la limpieza de datos y logré analizar la gestión operativa de la fundación Potenciar Solidario( identificando los rasgos demográficos y los perfiles de sus donantes y proveedores). En efecto, brindé recomendaciones a la fundación para que pueda mejorar su gestión operativa y pueda direccionar mejor su estrátegia de fidelización con sus donantes.
+🏡 [Campaña promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | "Tableau" | Frente al desafío de posicionamiento de la Startup logré identificar las regiones de venta con mejor desempeño publicitario(medí su promedio ROMI, gasto por campaña e ingresos percibidos). Por otro lado, detecté los clientes potenciales para el próximo lanzamiento de marketing.
+🚚 [Reporte de Producción](https://docs.google.com/spreadsheets/d/1yJpvXgu2U33HwTqBd0Wrj6vw_QXCpFnw3IvQLADPcMY/edit?usp=sharing!) | Lay international Logistic | "Google Sheet" | Analize el histórico de órdenes por categoría y estado productivo.
+
+<br>
+<br>
+
+### 📂 SQL
+
+Project Link | Associated | Area | Tools | Project Description
+---|---|---|---|---
+🎫[Análisis de captación de fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL Workbench | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
+🏍[Análisis de rendimiento del negocio de motocicletas ] | Miniproyecto de Datacamp | Análisis de datos | MySQL Workbench | Se evaluó el desempeño de ventas de motocicletas en Brasil mediante el análisis del crecimiento de la actividad anual de los clientes, la calidad anual de la categoría de productos y el uso anual de los tipos de pago. El análisis utilizó conjuntos de datos que contenían información sobre clientes, vendedores, productos y pedidos.
+🎁[Análisis de gestión de donaciones] | Miniproyecto de Guayerd| Análisis de datos | MySQL Workbench |Es un proyecto basado en un curso cuyo objetivo es analizar la gestión operativa de la Fundación "Potenciar solidario", responder varias preguntas financieras utilizando SQL y cubrir temas como el balance de costos e ingresos, análisis de proveedores y análisis a nivel de donantes. 
 
 <br>
 <br>
@@ -35,25 +44,16 @@ Project Link | Area | Tools | Project Description
 <br>
 <br>
 
-### 📂 SQL
+### 📂 Python: Data Analysis and Machine Learning
 
-Project Link | Associated | Area | Tools | Project Description
----|---|---|---|---
-🎫[Análisis de captación de fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL Workbench | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
-🏍[Análisis de rendimiento del negocio de motocicletas ] | Miniproyecto de Datacamp | Análisis de datos | MySQL Workbench | Se evaluó el desempeño de ventas de motocicletas en Brasil mediante el análisis del crecimiento de la actividad anual de los clientes, la calidad anual de la categoría de productos y el uso anual de los tipos de pago. El análisis utilizó conjuntos de datos que contenían información sobre clientes, vendedores, productos y pedidos.
-🎁[Análisis de gestión de donaciones] | Miniproyecto de Guayerd| Análisis de datos | MySQL Workbench |Es un proyecto basado en un curso cuyo objetivo es analizar la gestión operativa de la Fundación "Potenciar solidario", responder varias preguntas financieras utilizando SQL y cubrir temas como el balance de costos e ingresos, análisis de proveedores y análisis a nivel de donantes. 
-
-
-<br>
-<br>
-
-### 📂 Dashboard
-
-Project Link | Associated | Tools | Project Description
+Project Link | Area | Tools | Project Description
 ---|---|---|---
-📊 [Captación de fondos](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| "Looker" | Realicé la limpieza de datos y logré analizar la gestión operativa de la fundación Potenciar Solidario( identificando los rasgos demográficos y los perfiles de sus donantes y proveedores). En efecto, brindé recomendaciones a la fundación para que pueda mejorar su gestión operativa y pueda direccionar mejor su estrátegia de fidelización con sus donantes.
-🏡 [Campaña promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | "Tableau" | Frente al desafío de posicionamiento de la Startup logré identificar las regiones de venta con mejor desempeño publicitario(medí su promedio ROMI, gasto por campaña e ingresos percibidos). Por otro lado, detecté los clientes potenciales para el próximo lanzamiento de marketing.
-🚚 [Reporte de Producción](https://docs.google.com/spreadsheets/d/1yJpvXgu2U33HwTqBd0Wrj6vw_QXCpFnw3IvQLADPcMY/edit?usp=sharing!) | Lay international Logistic | "Google Sheet" | Analize el histórico de órdenes por categoría y estado productivo.
+🛒 [Intención de compra de los compradores en línea]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque aleatorio demostró el mejor rendimiento, logrando una puntuación ROC-AUC del 90%. A través de la simulación, se proyectó que este modelo podría aumentar potencialmente la tasa de conversión en un 58%.
+✈ [Segmentación de clientes de aerolineas basada en el modelo LRFMC utilizando K-Means]() | Manipulación de datos EDA, aprendizaje no supervisado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yellowbrick | Se desarrolló un modelo de agrupamiento empleando puntajes LRFMC y el algoritmo K-Means. En ese sentido, se identificó 5 grupos de clientes: nuevos usuarios, un 20 % son clientes leales, un 19% son potenciales leales, un 18% necesita atención y un 16% está hibernando.
+😁 [Predecir la personalidad del cliente para impulsar una campaña de marketing ]() | Manipulación de datos, EDA, aprendizaje no supervizado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yelowbrick | Bajo el modelo de K-Means, se analizaron las características de los clientes de una tienda online de alimentos. Antes de la agrupación se realizó una descomposición y se determinó el mejor grupo utilizandó el puntaje de inercia. Como resultado se obtuvo: 4 grupos basados en el comportamiento del cliente, considerando factores como el número de transacciones, los niveles de gasto, la respuesta de las campañas y la frecuencia de las visitas al sitio web
+📲 [Predecir la clasificación de clientes en anuncios en los que hizo clic]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn, scikit-learn, shap, etc | Se desarrolló un modelo de aprendizaje automático y se experimentó con varios algoritmos, lo que finalmente determinó una precisión del 96% en el ajuste del modelo Random Forest. Se analizaron características influyentes clave con SHAP para mejorar la segmentación y lograr mejores tasas de conversion y rentabilidad
+☎ [Abandono de clientes de telecomunicaciones]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn, scikit-learn | Se desarrolló un modelo de aprendizaje automático para predecir la pérdidad de clientes en una empresa de Telecomunicaciones. El modelo Random Forest arrojó el puntaje de precisión más alto del 89%, y la característica más influyente fue el cargo diario total. Un cargo más alto indica un mayor potencial de pérdida de clientes 
+💰 [Predecir el impago de préstamos de los clientes]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn,scikit-learn, scipy | Predicción de impagos de clientes o dificultades de pago de clientes. Limpieza de datos en datos sin procesar y analisis más de 100 carcaterísticas mediante métodos estadísticos. El mejor modelo logró una precisión del 87% y un AUC del 73% mediante regresión logística. Creación de una simulación mediante la implementación de una aplicación web para la predicción de la aprobación de préstamos mediante Streamlit.
 
 <br>
 <br>
