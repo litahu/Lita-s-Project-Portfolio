@@ -6,7 +6,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 - [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-dashboard)
 - [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
 - [Python: Data Analysis](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-python-data-analysis)
-- [Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio#-machine-learning)
+- [Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-machine-learning)
 - [Econometría: Modelos Pricing](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-econometr%C3%ADa-modelos-pricing)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio#-complated-course-and-certification)
 
