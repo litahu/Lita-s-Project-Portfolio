@@ -3,7 +3,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 **Table of Contens :**
 
-- [Dashboard]([https://github.com/litahu/Lita-s-Project-Portfolio#-dashboard](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-dashboard))
+- [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-dashboard)
 - [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
 - [Python: Data Analysis](https://github.com/litahu/Lita-s-Project-Portfolio#-python:-data-analysis)
 - [Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio#-machine-learning)
