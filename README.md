@@ -17,7 +17,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 ### 📂 Dashboard
 
 Project Link | Associated | Tools | Project Description
----|---|----|---
+---|---|-----|---
 🛒 [Seguimiento de ventas](https://github.com/litahu/Seguimiento_de_ventas/blob/main/README.md) | EmpowerTravel Store | Power BI | Creó un almacén de datos, analizó los datos proporcionados y generó un informe de ventas para la empresa. Además, desarrolló un panel que se centra principalmente en los datos de los ingresos totales por mes, las ventas totales por sucursal, las ventas totales por producto y más.
 🎫 [Previsión de fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/tree/main#-Visualización-de-datos) | Fundación Potenciar Solidario | Power BI | Realicé el ETL, calculé medidas para identificar el cumplimiento financiero de la ONG y logré proyetar su tendencia estrátegica
 🎁 [Captación de fondos](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Realicé la limpieza de datos y logré analizar la gestión operativa de la fundación Potenciar Solidario( identificando los rasgos demográficos y los perfiles de sus donantes y proveedores). En efecto, brindé recomendaciones a la fundación para que pueda mejorar su gestión operativa y pueda direccionar mejor su estrátegia de fidelización con sus donantes.
