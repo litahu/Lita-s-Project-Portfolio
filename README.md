@@ -33,7 +33,7 @@ Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
 🎫 [Análisis de captación de fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL, MySQL Workbench | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
 🔒 [Desafío SQL](https://github.com/litahu/Challenge-SQL-de-8-semanas/blob/main/README.md) | Datos con Danny | Análisis de datos | PostgreSQL, pgAdmin4, Excel para la visualización |Es un proyecto basado en un curso para analizar varios casos de negocio, responder varias preguntas utilizando SQL(aplicando teoría de este lenguaje desde nivel inicial, intermedio y avanzado)
-
+💳 [Análisis de abandono de clientes de tarjetas de crédito](https://github.com/litahu/Challenge-SQL-de-8-semanas/blob/main/README.md) | SQL avanzado: análisis de datos MySQL e inteligencia empresarial | Análisis de datos | MySQL, Tableau para la visualización |Se crearon tablas, se cargaron los datos en la base de datos y se diseñó un esquema en estrella. Posteriormente, se realizó una exploración de datos para identificar los perfiles de los clientes y las características relacionadas con la pérdida de clientes. Este análisis permitió examinar el comportamiento de los clientes en función de la información demográfica, su relación con el banco y el historial de transacciones.
 <br>
 <br>
 
