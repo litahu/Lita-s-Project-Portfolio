@@ -29,11 +29,13 @@ Project Link | Area | Tools | Project Description
 💬 [Sistema de agentes autónomos que colaboran con modelos para detectar ofertas y avidarte de gangas especiales]()
 
 <br>
+<br>
+
 ### 📂 Data Engineering
 
 Project Link | Area | Tools | Project Description
 ---|---|---|---
-⚠ [Deteccion de fraudes en el proceso de transacciones en línea] | Python, GCP (Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio  | Desarrollé e implementé un pipeline ETL de extremo a extremo para procesar datos de transacciones de pago en línea. El pipeline integró procesamiento por lotes y en streaming, transformé datos sin procesar utilizando Spark, cree un almacén de datos aplicando un modelo dimensional y de hechos, proporcioné notificaciones cuando se detectó actividad fraudulenta y cree un panel de informes con Looker Data Studio.
+⚠ [Deteccion de fraudes en el proceso de transacciones en línea]() | Python, GCP (Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio  | Desarrollé e implementé un pipeline ETL de extremo a extremo para procesar datos de transacciones de pago en línea. El pipeline integró procesamiento por lotes y en streaming, transformé datos sin procesar utilizando Spark, cree un almacén de datos aplicando un modelo dimensional y de hechos, proporcioné notificaciones cuando se detectó actividad fraudulenta y cree un panel de informes con Looker Data Studio.
 
 <br>
 <br>
@@ -79,10 +81,10 @@ Project Link | Associated | Tools | Project Description
 
 Project Link | Area | Tools | Project Description
 ---|---|---|---
-🔐 [Encriptador] | Manipulación de datos, EDA, análisis de datos | java, spring | Desarrollé y optimicé una estrategia de mercado 
-💰 [Conversor de monedas] | Aplicación de consola que consume una API | Java, Spring | Desarrollé y optimicé una estrategia de mercado 
-📚 [Literalura] | Aplicación de consola que consume una API con informaciones de libros y persiste la información en una base de datos| Java, Spring | Desarrollé y optimicé una estrategia de mercado 
-💬 [ForoHub] | API REST que replica un foro con conexión a una base de datos | pandas, matplotlib | Desarrollé y optimicé una estrategia de mercado 
+🔐 [Encriptador]()  | Manipulación de datos, EDA, análisis de datos | java, spring | Desarrollé y optimicé una estrategia de mercado 
+💰 [Conversor de monedas]()  | Aplicación de consola que consume una API | Java, Spring | Desarrollé y optimicé una estrategia de mercado 
+📚 [Literalura]()  | Aplicación de consola que consume una API con informaciones de libros y persiste la información en una base de datos| Java, Spring | Desarrollé y optimicé una estrategia de mercado 
+💬 [ForoHub]()  | API REST que replica un foro con conexión a una base de datos | pandas, matplotlib | Desarrollé y optimicé una estrategia de mercado 
 <br>
 <br>
 
