@@ -3,13 +3,63 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 **Table of Contens :**
 
-- [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-dashboard)
+- [IA generativa](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-ia-generativa)
+- [Data Engineering](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-engineering)
+- [Python: Data Analysis and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-python-data-analysis-and-machine-learning)
 - [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
-- [Python: Data Analysis](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-python-data-analysis)
-- [Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-machine-learning)
-- [Econometría: Modelos Pricing](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-econometr%C3%ADa-modelos-pricing)
+- [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-dashboard)
+- [Backend](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-backend)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio#-complated-course-and-certification)
 
+
+<br>
+<br>
+
+### 📂 IA generativa
+
+Project Link | Area | Tools | Project Description
+---|---|---|---
+📄 [Generador de folletos impulsador por IA que analiza por páginas web de empresas]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque 
+✈ [Agente de soporte multimodal para una aerolínea con interfaz gráfica y funciones automizadas]() | Manipulación de datos EDA, aprendizaje no supervisado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yellowbrick | Se desarrolló un modelo de agrupamiento empleando puntajes LRFMC y el algoritmo K-Means. En ese sentido, se identificó 5 grupos de clientes: nuevos usuarios, un 20 % son clientes leales, un 19% son potenciales leales, un 18% necesita atención y un 16% está hibernando.
+🎙 [Herramienta que genera minutas y tareas de reuniones desde audios, utilizando modelos de código abierto y cerrado]() | Manipulación de datos, EDA, aprendizaje no supervizado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yelowbrick | Bajo el modelo de K-Means, se analizaron las características de los clientes de una tienda online de alimentos. Antes de la agrupación se realizó una descomposición y 
+🚀 [IA que convierte código Python en C++ optimizado, ¡Mejorando el rendimiento hasta 60,000 veces!]() | Manipulación de datos, EDA, aprendizaje no supervizado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yelowbrick | Bajo el modelo de K-Means, se analizaron las características de los clientes de una tienda online de alimentos. Antes de la agrupación se realizó una descomposición y 
+🧠 [Trabajador de conocimiento basado en RAG, experto en todo los temas relacionados con tu empresa]() | Manipulación de datos, EDA, aprendizaje no supervizado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yelowbrick | Bajo el modelo de K-Means, se analizaron las características de los clientes de una tienda online de alimentos. Antes de la agrupación se realizó una descomposición y 
+📈 [Predicción de precios de productos a partir de descripciones breves usando modelos frontier]()
+🤖 [Modelo de código abierto afinado para competir con Frontier en predicción de precios]()
+💬 [Sistema de agentes autónomos que colaboran con modelos para detectar ofertas y avidarte de gangas especiales]()
+
+<br>
+### 📂 Data Engineering
+
+Project Link | Area | Tools | Project Description
+---|---|---|---
+⚠ [Deteccion de fraudes en el proceso de transacciones en línea] | Python, GCP (Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio  | Desarrollé e implementé un pipeline ETL de extremo a extremo para procesar datos de transacciones de pago en línea. El pipeline integró procesamiento por lotes y en streaming, transformé datos sin procesar utilizando Spark, cree un almacén de datos aplicando un modelo dimensional y de hechos, proporcioné notificaciones cuando se detectó actividad fraudulenta y cree un panel de informes con Looker Data Studio.
+
+<br>
+<br>
+
+### 📂 Python: Data Analysis and Machine Learning
+
+Project Link | Area | Tools | Project Description
+---|---|---|---
+✈ [Segmentación de clientes de aerolíneas basada en el modelo LRFMC utilizando K-Means]() | Manipulación de datos EDA, aprendizaje no supervisado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yellowbrick | Se desarrolló un modelo de agrupamiento empleando puntajes LRFMC y el algoritmo K-Means. En ese sentido, se identificó 5 grupos de clientes: nuevos usuarios, un 20 % son clientes leales, un 19% de clientes potenciales(leales), un 18% de clientes que necesitan atención y un 16% que están hibernando.
+🛒 [Intención de compra de los compradores en línea]() | Manipulación de datos, EDA, aprendizaje supervisado - clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque aleatorio demostró el mejor rendimiento, logrando una puntuación ROC-AUC del 90%. A través de la simulación, se proyectó que este modelo podría aumentar potencialmente la tasa de conversión en un 58%.
+🚲 [Evaluación de la calidad de los datos y segementación de clientes]() | Manipulación de datos, EDA, análisis RFM | pandas, matplotlib, seaborn, scikit-learn | Desarrollé y optimicé una estrategia de mercado para una empresa de bicicletas mediante el análisis de sus datos. Realicé una evaluación de la calidad de los datos e identifiqué estrategias para mitigar cualquier problema de calidad de los datos. Realicé una segmentación de clientes utilizando un análisis RFM(actualidad, frecuencia y valor monetario) simple para recomendar nuevos clientes potenciales para marketing dirigido. Visualicé información sobre la demografía de los clientes objetivo en un panel.
+🏬 [Investiga el negocio hotelero mediante la visualización de datos]() | Manipulación de datos, EDA, visualización de datos| pandas, matplotlib, seaborn, scikit-learn | Analicé el rendimiento de hoteles urbanos y resorts, identifiqué el tipo de hotel más visitado y exploré las relaciones entre las cancelaciones de reservas, la duración de la estadía  y el tiempo de espera mediante la visualización en Python. Además identifiqué las posibles causas de estos patrones y brindé recomendaciones comerciales basadas en el análisis. 
+😁 [Predecir la personalidad del cliente para impulsar una campaña de marketing ]() | Manipulación de datos, EDA, aprendizaje no supervizado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yelowbrick | Analicé las características de los clientes de una tienda de alimentación en línea mediante la creación de un modelo de agrupamiento utiliando K-Means. Antes de la agrupación se realizó una descomposición y se determinó el mejor grupo utilizandó el puntaje de inercia o puntaje de distorsión. Como resultado se obtuvo: 4 grupos basados en el comportamiento del cliente, considerando factores como el número de transacciones, los niveles de gasto, la respuesta de las campañas y la frecuencia de las visitas al sitio web.
+📲 [Predecir la clasificación de clientes en anuncios en los que hizo clic]() | Manipulación de datos, EDA, aprendizaje supervisado -  clasificación | pandas, matplotlib, seaborn, scikit-learn, shap, etc | Desarrollé un modelo de aprendizaje automático y se experimentó con varios algoritmos, lo que finalmente determinó que el modelo Random Forest logró el mejor ajuste con una precisión del 96% en la identificación de usuarios potenciales con porbabilidades de hacer clic en anuncios. Analicé características influyentes claves con shap para mejorar la segmentación y lograr mejores tasas de conversion y rentabilidad.
+☎ [Abandono de clientes de telecomunicaciones]() | Manipulación de datos, EDA, aprendizaje supervisado - clasificación | pandas, matplotlib, seaborn, scikit-learn | Desarrollé un modelo de aprendizaje automático para predecir la pérdidad de clientes en una empresa de Telecomunicaciones. El modelo Random Forest arrojó el puntaje de precisión más alto, alcanzando el 89%, y la característica más influyente fue el cargo diario total. Un cargo más alto indica una mayor potencia de pérdida de clientes. 
+💰 [Predecir el impago de préstamos de los clientes]() | Manipulación de datos, EDA, aprendizaje supervisado - clasificación | pandas, matplotlib, seaborn,scikit-learn, scipy | Predicción de imcumplimientos de pago de clientes o dificultades de pago de clientes. Realicé limpieza de datos en datos sin procesar y analicé más de 100 carcaterísticas mediante métodos estadísticos para la selección de características. El mejor modelo logró una precisión del 87% y un AUC del 73% mediante regresión logística. Creación de una simulación mediante la implementación de una aplicación web para la predicción de la aprobación de préstamos mediante Streamlit.
+<br>
+<br>
+
+### 📂 SQL
+
+Project Link | Associated | Area | Tools | Project Description
+---|---|---|---|---
+🎫 [Análisis de captación de fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL, MySQL Workbench y Power BI para la visualización | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
+👩‍💻 [Desafío SQL](https://github.com/litahu/Challenge-SQL-de-8-semanas/blob/main/README.md) | Datos con Danny | Análisis de datos | MySQL, Tableau para la visualización |Es un proyecto basado en un curso para analizar varios casos de negocio, responder varias preguntas utilizando SQL(aplicando teoría de este lenguaje desde nivel inicial, intermedio y avanzado)
+💳 [Análisis de abandono de clientes de tarjetas de crédito](gf) | SQL avanzado: análisis de datos MySQL e inteligencia empresarial | Análisis de datos | PostgreSQL, pgAdmin4, Excel para la visualización|Se crearon tablas, se cargaron los datos en la base de datos y se diseñó un esquema en estrella. Posteriormente, se realizó una exploración de datos para identificar los perfiles de los clientes y las características relacionadas con la pérdida de clientes. Este análisis permitió examinar el comportamiento de los clientes en función de la información demográfica, su relación con el banco y el historial de transacciones.
 
 <br>
 <br>
@@ -25,46 +75,14 @@ Project Link | Associated | Tools | Project Description
 <br>
 <br>
 
-### 📂 SQL
-
-Project Link | Associated | Area | Tools | Project Description
----|---|---|---|---
-🎫 [Análisis de captación de fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL, MySQL Workbench y Power BI para la visualización | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
-👩‍💻 [Desafío SQL](https://github.com/litahu/Challenge-SQL-de-8-semanas/blob/main/README.md) | Datos con Danny | Análisis de datos | MySQL, Tableau para la visualización |Es un proyecto basado en un curso para analizar varios casos de negocio, responder varias preguntas utilizando SQL(aplicando teoría de este lenguaje desde nivel inicial, intermedio y avanzado)
-💳 [Análisis de abandono de clientes de tarjetas de crédito](gf) | SQL avanzado: análisis de datos MySQL e inteligencia empresarial | Análisis de datos | PostgreSQL, pgAdmin4, Excel para la visualización|Se crearon tablas, se cargaron los datos en la base de datos y se diseñó un esquema en estrella. Posteriormente, se realizó una exploración de datos para identificar los perfiles de los clientes y las características relacionadas con la pérdida de clientes. Este análisis permitió examinar el comportamiento de los clientes en función de la información demográfica, su relación con el banco y el historial de transacciones.
-<br>
-<br>
-
-### 📂 Python: Data Analysis
+### 📂 Backend
 
 Project Link | Area | Tools | Project Description
 ---|---|---|---
-🛒 [Intención de compra de los compradores en línea]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque aleatorio demostró el mejor rendimiento, logrando una puntuación ROC-AUC del 90%. A través de la simulación, se proyectó que este modelo podría aumentar potencialmente la tasa de conversión en un 58%.
-📲 [Predecir la clasificación de clientes en anuncios en los que hizo clic]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn, scikit-learn, shap, etc | Se desarrolló un modelo de aprendizaje automático y se experimentó con varios algoritmos, lo que finalmente determinó una precisión del 96% en el ajuste del modelo Random Forest. Se analizaron características influyentes clave con SHAP para mejorar la segmentación y lograr mejores tasas de conversion y rentabilidad
-☎ [Abandono de clientes de telecomunicaciones]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn, scikit-learn | Se desarrolló un modelo de aprendizaje automático para predecir la pérdidad de clientes en una empresa de Telecomunicaciones. El modelo Random Forest arrojó el puntaje de precisión más alto del 89%, y la característica más influyente fue el cargo diario total. Un cargo más alto indica un mayor potencial de pérdida de clientes 
-💰 [Predecir el impago de préstamos de los clientes]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación | pandas, matplotlib, seaborn,scikit-learn, scipy | Predicción de impagos de clientes o dificultades de pago de clientes. Limpieza de datos en datos sin procesar y analisis más de 100 carcaterísticas mediante métodos estadísticos. El mejor modelo logró una precisión del 87% y un AUC del 73% mediante regresión logística. Creación de una simulación mediante la implementación de una aplicación web para la predicción de la aprobación de préstamos mediante Streamlit.
-
-<br>
-<br>
-
-### 📂 Machine Learning
-
-Project Link | Area | Tools | Project Description
----|---|---|---
-🛒 [Intención de compra de los compradores en línea]() | Manipulación de datos, EDA, aprendizaje supervisado y clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque aleatorio demostró el mejor rendimiento, logrando una puntuación ROC-AUC del 90%. A través de la simulación, se proyectó que este modelo podría aumentar potencialmente la tasa de conversión en un 58%.
-✈ [Segmentación de clientes de aerolineas basada en el modelo LRFMC utilizando K-Means]() | Manipulación de datos EDA, aprendizaje no supervisado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yellowbrick | Se desarrolló un modelo de agrupamiento empleando puntajes LRFMC y el algoritmo K-Means. En ese sentido, se identificó 5 grupos de clientes: nuevos usuarios, un 20 % son clientes leales, un 19% son potenciales leales, un 18% necesita atención y un 16% está hibernando.
-😁 [Predecir la personalidad del cliente para impulsar una campaña de marketing ]() | Manipulación de datos, EDA, aprendizaje no supervizado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yelowbrick | Bajo el modelo de K-Means, se analizaron las características de los clientes de una tienda online de alimentos. Antes de la agrupación se realizó una descomposición y se determinó el mejor grupo utilizandó el puntaje de inercia. Como resultado se obtuvo: 4 grupos basados en el comportamiento del cliente, considerando factores como el número de transacciones, los niveles de gasto, la respuesta de las campañas y la frecuencia de las visitas al sitio web
-
-<br>
-<br>
-
-### 📂 Econometría: Modelos Pricing
-
-Project Link | Area | Tools | Project Description
----|---|---|---
-🚲 [Evaluación de la calidad de los datos y segmentación de clientes] | Manipulación de datos, EDA, análisis de datos | pandas, matplotlib | Desarrollé y optimicé una estrategia de mercado para una empresa de bicicletas mediante el análisis de sus datos. Realicé una evaluación de la calidad de los datos e identifiqué estrategias para mitigar cualquier problema de calidad de los datos. Realicé una segmentación de clientes utilizando un análisis RFM(actualidad, frecuencia y valor monetario) simple para recomendar nuevos clientes potenciales para marketing dirigido. Además proyecté un panel para visualizar la demografía de los clientes
-🏙 [Negocio hotelero] | Manipulación de datos, EDA, visualización de datos | pandas, matplotlib | Identificó el tipo de hotel más visitado y exploró las relaciones entre las cancelaciones de reservas, la duración de la estadía y el tiempo de espera mediante la visualización en python. Analizó las posibles causas de estos patrones y brindó recomendaciones comerciales 
-
+🔐 [Encriptador] | Manipulación de datos, EDA, análisis de datos | java, spring | Desarrollé y optimicé una estrategia de mercado 
+💰 [Conversor de monedas] | Aplicación de consola que consume una API | Java, Spring | Desarrollé y optimicé una estrategia de mercado 
+📚 [Literalura] | Aplicación de consola que consume una API con informaciones de libros y persiste la información en una base de datos| Java, Spring | Desarrollé y optimicé una estrategia de mercado 
+💬 [ForoHub] | API REST que replica un foro con conexión a una base de datos | pandas, matplotlib | Desarrollé y optimicé una estrategia de mercado 
 <br>
 <br>
 
