@@ -81,7 +81,7 @@ Project Link | Associated | Tools | Project Description
 
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
-🔐 [Encriptador](https://github.com/litahu/encrypted_alura)  | Challenge task - Alura Latam | HTML5, CSS3, JavaScript5 | Desarrollé mi primera página: "Juego encriptado - Gestión ágil
+🔐 [Encriptador](https://github.com/litahu/encrypted_alura)  | Proyecto final - Alura Latam | HTML5, CSS3, JavaScript5 | Desarrollé mi primera página: "Juego encriptado - Gestión ágil
 💰 [Conversor de monedas]()  | Aplicación de consola que consume una API | Java, Spring | Desarrollé y optimicé una estrategia de mercado 
 📚 [Literalura]()  | Aplicación de consola que consume una API con informaciones de libros y persiste la información en una base de datos| Java, Spring | Desarrollé y optimicé una estrategia de mercado 
 💬 [ForoHub]()  | API REST que replica un foro con conexión a una base de datos | pandas, matplotlib | Desarrollé y optimicé una estrategia de mercado 
