@@ -46,7 +46,7 @@ Project Link | Associated | Area | Tools | Project Description
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
 🎫 [Análisis de captación de fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL, MySQL Workbench y Power BI para la visualización | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
-👩‍💻 [Desafío SQL](https://github.com/litahu/Challenge-SQL-de-8-semanas/blob/main/README.md) | Datos con Danny | Análisis de datos | MySQL, Tableau para la visualización |Es un proyecto basado en un curso para analizar varios casos de negocio, responder varias preguntas utilizando SQL(aplicando teoría de este lenguaje desde nivel inicial, intermedio y avanzado)
+
 
 <br>
 <br>
