@@ -55,9 +55,9 @@ Project Link | Associated | Area | Tools | Project Description
 
 Project Link | Associated | Tools | Project Description
 ---|---|-----|---
+👩‍🔧 [Análisis de deserción de recursos humanos](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Mini Project by PWC Suiza| Power BI | Realicé una evaluación integral de la calidad de los datos para la política de diversidad e inclusión de la empresa y establecí KPI´s claves. Desarrollé un panel de control en Power BI para comunicar información de manera eficaz, proporcionando ideas valiosas y sugerencias viables basadas en el análisis de datos.
 🎁 [Captación de fondos](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Realicé la limpieza de datos y logré analizar la gestión operativa de la fundación Potenciar Solidario( identificando los rasgos demográficos y los perfiles de sus donantes y proveedores). En efecto, brindé recomendaciones a la fundación para que pueda mejorar su gestión operativa y pueda direccionar mejor su estrátegia de fidelización con sus donantes.
 🏡 [Campaña promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | Tableau | Frente al desafío de posicionamiento de la Startup logré identificar las regiones de venta con mejor desempeño publicitario(medí su promedio ROMI, gasto por campaña e ingresos percibidos). Por otro lado, detecté los clientes potenciales para el próximo lanzamiento de marketing.
-🛒 [Seguimiento de ventas](https://github.com/litahu/Seguimiento_de_ventas/blob/main/README.md) | EmpowerTravel Store | Power BI | Creo un almacén de datos, analizó los datos proporcionados y generó un informe de ventas para la empresa. Además, desarrolló un panel que se centra principalmente en los datos de los ingresos totales por mes, las ventas totales por sucursal, las ventas totales por producto y más.
 <br>
 <br>
 
