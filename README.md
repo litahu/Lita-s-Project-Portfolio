@@ -36,7 +36,7 @@ Project Link | Area | Tools | Project Description
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
-✈ [Segmentación de Clientes basada en el modelo LRFMC](https://github.com/litahu/Segmentaci-n-de-clientes---LRFMC/blob/main/README.md) | Asignación - Udacity| Manipulación de datos EDA, aprendizaje no supervisado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yellowbrick | Se desarrolló un modelo de agrupamiento empleando puntajes LRFMC y el algoritmo K-Means. En ese sentido, se identificó 5 grupos de clientes: nuevos usuarios, un 20 % son clientes leales, un 19% de clientes potenciales(leales), un 18% de clientes que necesitan atención y un 16% que están hibernando.
+✈ [Segmentación de Clientes basada en el modelo LRFMC](https://github.com/litahu/Segmentaci-n-de-clientes---LRFMC/blob/main/README.md) | Datacamp | Manipulación de datos EDA, aprendizaje no supervisado y agrupamiento | pandas, matplotlib, seaborn, scikit-learn, yellowbrick | Se desarrolló un modelo de agrupamiento empleando puntajes LRFMC y el algoritmo K-Means. En ese sentido, se identificó 5 grupos de clientes: nuevos usuarios, un 20 % son clientes leales, un 19% de clientes potenciales(leales), un 18% de clientes que necesitan atención y un 16% que están hibernando.
 
 <br>
 <br>
