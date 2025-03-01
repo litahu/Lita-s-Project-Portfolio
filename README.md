@@ -17,7 +17,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 ### 📂 IA generativa
 
-Project Link | Area | Tools | Project Description
+Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
 🌺 [Clasificador de imágenes florales]() | Asignado por Udacity| Aprendizaje profundo de redes neuronales | pandas, matplotlib, pytorch, PIL, Argparse | Utilizando pytorch entrene un clasificador de imágenes para reconocer diferentes especies de flores(102 categorías). Carge y preprocese la data, use vgg16 para preentrenar el marco del modelo de modo que en base a ello pueda construir mi modelo. Mas adelante entrene y evalue el funcionamiento del modelo y lo guarde en checkpoint.pth. Por último, utilicé el modelo para hacer la comprobación de cordura para visualizar imágenes con probabilidad de clase.
 📄 [Generador de Folletos impulsador por IA que analiza por páginas web de empresas]() | | Manipulación de datos, EDA, aprendizaje supervisado y clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque 
