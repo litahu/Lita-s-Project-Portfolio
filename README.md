@@ -71,14 +71,9 @@ Project Link | Associated | Tools | Project Description
 <br>
 <br>
 
-### 🏆 Complated Course and Certification
+### 🏆 Complated Courses and Certifications to understand industries
 
-- [Curso Completo de Bases de Datos. Aprende SQL y MySQL](https://drive.google.com/file/d/1Oq-ZTpgjHT2XnWzVPfhlJoU2Bnc9C5ia/view?usp=sharing) | Udemy: Alvaro Chirou
-- [Aprende todo sobre Looker Studio 2024](https://drive.google.com/file/d/1Oq-ZTpgjHT2XnWzVPfhlJoU2Bnc9C5ia/view?usp=sharing) | Udemy: José Aguilar
-- [SQL for Data Analysis : Beginner MySQL Business Intelligent](https://drive.google.com/file/d/1Xhe2ze5Y0L9r3BT4PvJ2muuW67NDVc97/view?usp=sharing) | Udemy: Maven Analytics
-- [ChatGPT: optimizando la calidad de los resultados](https://drive.google.com/file/d/1ELFb_F_wOWUzbIYtL65roOaZO0k58IM1/view?usp=sharing) | Alura Latam + Oracle
-- [Lógica de programación con Javascript](https://drive.google.com/file/d/15h6JMN9Cv0-AQ54kNP-N1lhuYr_DYecQ/view?usp=sharing) | Alura Latam
-- [Principiante en programación: HTML, CSS y JS](https://drive.google.com/file/d/1nP_p_bJkaeqjFY5DMC2qG2C3_RtIFY_9/view?usp=sharing) | Alura Latam: Principiante en programación G7
+- [Price to Profit: Psychology & Science of Pricing ](https://drive.google.com/file/d/13NX-7SkD7PJKcrqq2uWfs3atFIdf8W0I/view?usp=sharing) | Udemy: Mohammad Habibi
 
 
 
