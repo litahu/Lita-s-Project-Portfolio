@@ -56,9 +56,10 @@ Project Link | Associated | Area | Tools | Project Description
 
 Project Link | Associated | Tools | Project Description
 ---|---|-----|---
-👩‍🔧 [Análisis de Deserción de Recursos Humanos](https://github.com/litahu/project_pwc/blob/main/README.md)| Mini Project by PWC Suiza| Power BI | Realicé una evaluación integral de la calidad de los datos para la política de diversidad e inclusión de la empresa y establecí KPI´s claves. Desarrollé un panel de control en Power BI para comunicar información de manera eficaz, proporcionando ideas valiosas y sugerencias viables basadas en el análisis de datos.
-🎁 [Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Realicé la limpieza de datos y logré analizar la gestión operativa de la fundación Potenciar Solidario( identificando los rasgos demográficos y los perfiles de sus donantes y proveedores). En efecto, brindé recomendaciones a la fundación para que pueda mejorar su gestión operativa y pueda direccionar mejor su estrátegia de fidelización con sus donantes.
-🏡 [Campaña Promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | Tableau | Frente al desafío de posicionamiento de la Startup logré identificar las regiones de venta con mejor desempeño publicitario(medí su promedio ROMI, gasto por campaña e ingresos percibidos). Por otro lado, detecté los clientes potenciales para el próximo lanzamiento de marketing.
+👩‍🔧 [Análisis de Deserción de Recursos Humanos](https://github.com/litahu/project_pwc/blob/main/README.md)| Mini Project by PWC Suiza| Power BI | Se realizo un panel de control en Power BI para la política de diversidad e inclusión de la empresa. Para ello se analizo los datos para establecer KPI´s claves. 
+
+🎁 [Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
+🏡 [Campaña Promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | Tableau | Frente al desafío de posicionamiento de la Startup inmobiliaria se analizo el desempeño publicitario(promedio ROMI, gasto por campaña e ingresos percibidos).
 <br>
 <br>
 
