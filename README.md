@@ -9,7 +9,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 - [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
 - [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-dashboard)
 - [Backend](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-backend)
-- [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-course-and-certification-to-understand-industries)
+- [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
 
 
 <br>
