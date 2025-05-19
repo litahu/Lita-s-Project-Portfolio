@@ -67,7 +67,7 @@ Project Link | Associated | Tools | Project Description
 
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
-🔐 [Encriptador](https://github.com/litahu/encrypted_alura)  | Proyecto final - Alura Latam | HTML5, CSS3, JavaScript5 | Desarrollé mi primera desde una estructura sólida en html, dinámica con Java y personalización con CSS. Además aprendí como se trabaja dentro de una gestión ágil
+🔐 [Encriptador](https://github.com/litahu/encrypted_alura)  | Proyecto final - Alura Latam | HTML5, CSS3, JavaScript5 | Desarrollé mi primera página web desde una estructura sólida en html, dinámica con Java y personalización con CSS. Además aprendí como se trabaja dentro de una gestión ágil
 
 <br>
 <br>
