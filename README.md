@@ -9,7 +9,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 - [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
 - [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-dashboard)
 - [Backend](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-backend)
-- [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio#-complated-course-and-certification)
+- [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-course-and-certification-to-understand-industries)
 
 
 <br>
@@ -75,6 +75,7 @@ Project Link | Associated | Tools | Project Description
 ### 🏆 Complated Courses and Certifications to understand industries
 
 - [Price to Profit: Psychology & Science of Pricing ](https://drive.google.com/file/d/13NX-7SkD7PJKcrqq2uWfs3atFIdf8W0I/view?usp=sharing) | Udemy: Mohammad Habibi
+- [Buenas prácticas de almacenamiento](https://drive.google.com/file/d/1YxPG5G9NMuU5tjnbi4QHh7pY67Yt193g/view?usp=sharing) | Udemy: Williams Ribera
 
 
 
