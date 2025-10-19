@@ -4,10 +4,9 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 **Table of Contens :**
 
 - [IA generativa](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-ia-generativa)
-- [Data Engineering](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-engineering)
-- [Python: Data Analysis and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-python-data-analysis-and-machine-learning)
-- [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
-- [Dashboard](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-dashboard)
+- [Data Science](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-science)
+- [Data Analytics](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-analytics)
+- [Data engineering](https://github.com/litahu/Lita-s-Project-Portfolio#-data-engineering)
 - [Backend](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-backend)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
 
@@ -26,16 +25,7 @@ Project Link | Associated | Area | Tools | Project Description
 <br>
 <br>
 
-### 📂 Data Engineering
-
-Project Link | Area | Tools | Project Description
----|---|---|---
-⚠ [Deteccion de Fraudes en el proceso de transacciones en línea]() | |  Python, GCP (Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio  | Desarrollé e implementé un pipeline ETL de extremo a extremo para procesar datos de transacciones de pago en línea. El pipeline integró procesamiento por lotes y en streaming, transformé datos sin procesar utilizando Spark, cree un almacén de datos aplicando un modelo dimensional y de hechos, proporcioné notificaciones cuando se detectó actividad fraudulenta y cree un panel de informes con Looker Data Studio.
-
-<br>
-<br>
-
-### 📂 Python: Data Analysis and Machine Learning
+### 📂 Data Science
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
@@ -44,7 +34,7 @@ Project Link | Associated | Area | Tools | Project Description
 <br>
 <br>
 
-### 📂 SQL
+### 📂 Data analytics
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
@@ -54,14 +44,12 @@ Project Link | Associated | Area | Tools | Project Description
 <br>
 <br>
 
-### 📂 Dashboard
+### 📂 Data engineering
 
-Project Link | Associated | Tools | Project Description
----|---|-----|---
-📊 [Optimiza tu tiempo con Make Time](https://github.com/litahu/Productivity/tree/main)| Habit tracker| Google Sheet | Se realizo una herramienta para gestionar hábitos y enfocar actividades. 
-👩‍🔧 [Análisis de Deserción de Recursos Humanos](https://github.com/litahu/project_pwc/blob/main/README.md)| Mini Project by PWC Suiza| Power BI | Se realizo un panel de control en Power BI para la política de diversidad e inclusión de la empresa. Para ello se analizo los datos para establecer KPI´s claves. 
-🎁 [Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
-🏡 [Campaña Promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | Tableau | Frente al desafío de posicionamiento de la Startup inmobiliaria se analizo el desempeño publicitario(promedio ROMI, gasto por campaña e ingresos percibidos).
+Project Link | Area | Tools | Project Description
+---|---|---|---
+⚠ [Deteccion de Fraudes en el proceso de transacciones en línea]() | |  Python, GCP (Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio  | Desarrollé e implementé un pipeline ETL de extremo a extremo para procesar datos de transacciones de pago en línea. El pipeline integró procesamiento por lotes y en streaming, transformé datos sin procesar utilizando Spark, cree un almacén de datos aplicando un modelo dimensional y de hechos, proporcioné notificaciones cuando se detectó actividad fraudulenta y cree un panel de informes con Looker Data Studio.
+
 <br>
 <br>
 
