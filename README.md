@@ -19,8 +19,10 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
-🌺 [Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | Asignado por Udacity| Aprendizaje profundo de redes neuronales | Numpy, Matplotlib, Pytorch, PIL, Argparse | Utilizando pytorch entrene un clasificador de imágenes para reconocer diferentes especies de flores(dentro de 102 categorías). Cargue y preprocese la data, use vgg16 para preentrenar el marco del modelo que iba a usar para construir mi modelo. Luego entrene y evalue el funcionamiento del modelo y lo guarde en checkpoint.pth. Por último, utilicé el modelo para hacer la comprobación de cordura y así logré visualizar imágenes con probabilidad de clase.
-📄 [Generador de Folletos impulsador por IA que analiza por páginas web de empresas]() | | Manipulación de datos, EDA, aprendizaje supervisado y clasificación| pandas, matplotlib, seaborn, scikit-learn | Se creó un modelo para predecir que visitantes del sitio web tienen más probabilidades de realizar una compra o no. Después de probar varios algoritmos, el ajuste de hiperparámetros de bosque 
+☁ [Implementación y supervisión de un flujo de trabajo de aprendizaje automático en AWS](https://github.com/litahu/First_deployment) | Asignado por Amazon Web Services(AWS) y Udacity | Machine Learning engineer en AWS | IAM, SageMaker, Lambda, Step Functions, CloudWatch | Este proyecto me ayudo a comprender el cada paso del proceso del aprendizaje automático. Desde su preparación de datos, implementación y monitorización del modelo aprovechando los potentes microservicios de AWS. Cada componente jugo un papel vital para dar vida a un proyecto escalable, automatizado, y fiable. 
+🌺 [Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | Asignado por Udacity| Aprendizaje profundo de redes neuronales | Numpy, Matplotlib, Pytorch, PIL(Pillow), Argparse | Aprendí cómo construir y entrenar un modelo de aprendizaje profundo para la clasificación de imágenes con Pytorch(entre 102 tipos de flores). Además comprendí el rendimiento del modelo y su precisión de las predicciones sobre nuevas imagenes.
+
+
 <br>
 <br>
 
