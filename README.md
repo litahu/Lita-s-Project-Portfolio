@@ -38,6 +38,7 @@ Project Link | Associated | Area | Tools | Project Description
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
+📦 [Análisis de negocio eCommerce](https://github.com/litahu/Files-all-data/blob/main/StoreLatam.ipynb)  | Mini Proyecto | Data Analysis | Python, Jupyter Notebook | Evalué el desempeño comercial por local de venta analizando la actividad anual de los clientes, la calidad anual de las categorías de productos y el uso anual del tipo de pago. El análisis utilizó conjuntos de datos que contienen información sobre clientes, vendedores, productos y pedidos. 
 🎫 [Análisis: Captación de Fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL, MySQL Workbench y Power BI para la visualización | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
 
 
