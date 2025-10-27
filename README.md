@@ -3,10 +3,9 @@
 **Table of Contens :**
 
 - [IA generativa](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-ia-generativa)
-- [Data Science](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-science)
-- [Data Analytics](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-analytics)
-- [Data engineering](https://github.com/litahu/Lita-s-Project-Portfolio#-data-engineering)
-- [Backend](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-backend)
+- [Data Science and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-science-and-machine-learning)
+- [Database and Data analytics](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-database-and-data-analytics)
+- [Programming](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-programming)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
 
 
@@ -24,7 +23,7 @@ Project Link | Associated | Area | Tools | Project Description
 <br>
 <br>
 
-### 📂 Data Science
+### 📂 Data Science and Machine Learning
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
@@ -33,7 +32,7 @@ Project Link | Associated | Area | Tools | Project Description
 <br>
 <br>
 
-### 📂 Data analytics
+### 📂 Database and Data analytics
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
@@ -44,17 +43,7 @@ Project Link | Associated | Area | Tools | Project Description
 <br>
 <br>
 
-### 📂 Data engineering
-
-Project Link | Area | Tools | Project Description
----|---|---|---
-📥 [Bases de Datos](https://github.com/litahu/links_economic) | Recursos Económicos| Variables económicas | Recopilación de Bases de datos publicadas por Instituciones Oficiales - Dataset públicas
-
-
-<br>
-<br>
-
-### 📂 Backend
+### 📂 Programming
 
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
