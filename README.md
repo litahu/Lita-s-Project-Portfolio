@@ -9,7 +9,7 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 - [Programming](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-programming)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
 
-
+<br><br>
 ### 📂 IA generativa
 
 Project Link | Associated | Area | Tools | Project Description
