@@ -1,6 +1,6 @@
 # ¡Bienvenid@ a mi Portfolio! 🙋‍♀️
 Esta documentación es una instantánea rápida de mis proyectos en el campo de los datos, mostrando mis habilidades y conocimientos en esta área. 
-<br>
+<br><br>
 **Tabla de contenido:**
 
 - [IA generativa](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-ia-generativa)
@@ -9,9 +9,6 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 - [Programming](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-programming)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
 
-
-
-<br>
 
 ### 📂 IA generativa
 
