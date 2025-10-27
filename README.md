@@ -1,5 +1,4 @@
-# Lita´s Project Portfolio
-Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
+# Lita´s Project Data Analyst
 
 **Table of Contens :**
 
@@ -59,6 +58,7 @@ Project Link | Area | Tools | Project Description
 
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
+🧙‍♀️ [Amigo secreto](https://github.com/litahu/encrypted_alura)  | Proyecto final - Alura Latam | HTML5, CSS3, JavaScript5 | Desarrollé una página web que realiza un sorteo de nombres
 🔐 [Encriptador](https://github.com/litahu/encrypted_alura)  | Proyecto final - Alura Latam | HTML5, CSS3, JavaScript5 | Desarrollé mi primera página web desde una estructura sólida en html, dinámica con Java y personalización con CSS. Además aprendí como se trabaja dentro de una gestión ágil
 
 <br>
@@ -66,13 +66,12 @@ Project Link | Associated | Tools | Project Description
 
 ### 🏆 Complated Courses and Certifications to understand industries
 
-- [Price to Profit: Psychology & Science of Pricing ](https://drive.google.com/file/d/13NX-7SkD7PJKcrqq2uWfs3atFIdf8W0I/view?usp=sharing) | Udemy: Mohammad Habibi
-- [Buenas prácticas de almacenamiento](https://drive.google.com/file/d/1YxPG5G9NMuU5tjnbi4QHh7pY67Yt193g/view?usp=sharing) | Udemy: Williams Ribera
-
-
-
-
-
-
+- [Certificado de AWS ML Fundamentals Nanodegree](https://www.udacity.com/certificate/e/b634143c-2936-11f0-beba-c78c19837db3) | Beca de IA y ML de AWS, Udacity
+- [Curso Fundamentos de Análisis de datos](https://drive.google.com/file/d/19tZfL-TS7rgZfkwGivwyxOWR-UnSZHGx/view) | IBM SkillsBuild, Guayerd, Udemy
+- [Curso Data Science Math Skills](https://drive.google.com/file/d/1YkT3PRufdiDWeQMYjXIeC4seXtx5PwNw/view) | Coursera
+- [Curso Looker Studio 2024](https://drive.google.com/file/d/1Oq-ZTpgjHT2XnWzVPfhlJoU2Bnc9C5ia/view) | IBM SkillsBuild, Guayerd, Udemy 
+- [Certificado Análisis de datos asociado en SQL](https://drive.google.com/file/d/1d1aS59j22428Z05ecCv1bVEqBV9kKt7n/view) | Datacamp
+- [Certificado Ingeniería de datos asociado en SQL ](https://drive.google.com/file/d/1XwigKGcWOs134imjavCxzJWooO6mILXe/view) | Datacamp
+- [Curso de Programación de IA con Python](https://www.udacity.com/certificate/e/1f16f324-8b40-11ef-9723-77745f0c674c) | AWS + Udacity
 
 
