@@ -1,4 +1,5 @@
-# Lita´s Data Portfolio
+# ¡Bienvenid@ a mi Portfolio! 🙋‍♀️
+Esta documentación es una instantánea rápida de mis proyectos en el campo de los datos, mostrando mis habilidades y conocimientos en esta área. 
 
 **Table of Contens :**
 
