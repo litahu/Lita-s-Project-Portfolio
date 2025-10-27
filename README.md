@@ -49,7 +49,8 @@ Project Link | Associated | Area | Tools | Project Description
 
 Project Link | Area | Tools | Project Description
 ---|---|---|---
-⚠ [Deteccion de Fraudes en el proceso de transacciones en línea]() | |  Python, GCP (Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio  | Desarrollé e implementé un pipeline ETL de extremo a extremo para procesar datos de transacciones de pago en línea. El pipeline integró procesamiento por lotes y en streaming, transformé datos sin procesar utilizando Spark, cree un almacén de datos aplicando un modelo dimensional y de hechos, proporcioné notificaciones cuando se detectó actividad fraudulenta y cree un panel de informes con Looker Data Studio.
+📥 [Bases de Datos](https://github.com/litahu/links_economic) | Dataset públicas| Variables económicas | Recopilación de Bases de datos publicadas por Instituciones Oficiales
+
 
 <br>
 <br>
