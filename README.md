@@ -49,7 +49,7 @@ Project Link | Associated | Area | Tools | Project Description
 
 Project Link | Area | Tools | Project Description
 ---|---|---|---
-📥 [Bases de Datos](https://github.com/litahu/links_economic) | Dataset públicas| Variables económicas | Recopilación de Bases de datos publicadas por Instituciones Oficiales
+📥 [Bases de Datos](https://github.com/litahu/links_economic) | Recursos Económicos| Variables económicas | Recopilación de Bases de datos publicadas por Instituciones Oficiales - Dataset públicas
 
 
 <br>
