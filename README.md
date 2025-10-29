@@ -16,7 +16,7 @@ Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
 ☁ [Implementación y supervisión de un flujo de trabajo de aprendizaje automático en AWS](https://github.com/litahu/First_deployment) | Asignado por Amazon Web Services(AWS) y Udacity | Machine Learning engineer en AWS | IAM, SageMaker, Lambda, Step Functions, CloudWatch | Este proyecto me ayudo a comprender el cada paso del proceso del aprendizaje automático. Desde su preparación de datos, implementación y monitorización del modelo aprovechando los potentes microservicios de AWS. Cada componente jugo un papel vital para dar vida a un proyecto escalable, automatizado, y fiable. 
 🌺 [Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | Asignado por Udacity| Aprendizaje profundo de redes neuronales | Numpy, Matplotlib, Pytorch, PIL(Pillow), Argparse | Aprendí cómo construir y entrenar un modelo de aprendizaje profundo para la clasificación de imágenes con Pytorch(entre 102 tipos de flores). Además comprendí el rendimiento del modelo y su precisión de las predicciones sobre nuevas imagenes.
-
+🗺 [Clasificación y etiquetado de puntos de referencia locales para redes sociales](https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales) | Asignado por Udacity| Deep learning | Redes neuronales convolucionales, Autocodificadores, Voila | Realicé el preprocesamiento de datos, diseño y entrenamiento de redes neuronales convolucionales y desplegué una aplicación basada en la mejor CNN que he entrenado.
 
 <br>
 <br>
