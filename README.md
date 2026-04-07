@@ -14,6 +14,7 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
+🦾 [ Fundamentos de Inteligencia artificial](https://github.com/litahu/Repositorio_IA_Guayerd/blob/main/README.md) |  Programa de formación brindado por Guayerd | Python, Prompt Engineering | Los proyectos desarrollados me permitieron perfeccionar la creación de prompts, automatizar procesos y aplicar principios de ética y seguridad de datos en soluciones de IA.
 ☁ [ AWS Machine Learning Fundamentals](https://github.com/litahu/Repositorio_Inteligencia_Artificial/blob/main/README.md) |  Proyecto final para Amazon Web Services (AWS) y Udacity | Microservicios de AWS(SageMaker, Lambda, Step Functions) | Este proyecto me ayudó a comprender la utilidad de los microservicios de AWS en el desarrollo de modelos de Machine Learning, los cuales son vitales para crear proyectos escalables, automatizados y fiables.
 
 
