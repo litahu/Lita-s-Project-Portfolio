@@ -12,11 +12,10 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 <br><br>
 ### 📂 IA generativa
 
-Project Link | Associated | Area | Tools | Project Description
----|---|---|---|---
-☁ [Implementación y supervisión de un flujo de trabajo de aprendizaje automático en AWS](https://github.com/litahu/First_deployment) | Asignado por Amazon Web Services(AWS) y Udacity | Machine Learning engineer en AWS | IAM, SageMaker, Lambda, Step Functions, CloudWatch | Este proyecto me ayudo a comprender el cada paso del proceso del aprendizaje automático. Desde su preparación de datos, implementación y monitorización del modelo aprovechando los potentes microservicios de AWS. Cada componente jugo un papel vital para dar vida a un proyecto escalable, automatizado, y fiable. 
-🌺 [Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | Asignado por Udacity| Aprendizaje profundo de redes neuronales | Numpy, Matplotlib, Pytorch, PIL(Pillow), Argparse | Aprendí cómo construir y entrenar un modelo de aprendizaje profundo para la clasificación de imágenes con Pytorch(entre 102 tipos de flores). Además comprendí el rendimiento del modelo y su precisión de las predicciones sobre nuevas imagenes.
-🗺 [Clasificación y etiquetado local para redes sociales](https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales) | Asignado por Udacity| Deep learning | Redes neuronales convolucionales, Autocodificadores, Voila | Realicé el preprocesamiento de datos, diseño y entrenamiento de redes neuronales convolucionales y desplegué una aplicación basada en la mejor CNN que he entrenado.
+Project Link | Associated | Tools | Project Description
+---|---|---|---
+☁ [ AWS Machine Learning Fundamentals](https://github.com/litahu/Repositorio_Inteligencia_Artificial/blob/main/README.md) |  Proyecto final para Amazon Web Services (AWS) y Udacity | Microservicios de AWS(SageMaker, Lambda, Step Functions) | Este proyecto me ayudó a comprender la utilidad de los microservicios de AWS en el desarrollo de modelos de Machine Learning, los cuales son vitales para crear proyectos escalables, automatizados y fiables.
+
 
 <br>
 <br>
