@@ -1,5 +1,5 @@
 # ¡Bienvenid@ a mi Portfolio! 🙋‍♀️
-Esta documentación es una instantánea rápida de mis proyectos en el campo de los datos, mostrando mis habilidades y conocimientos en esta área. 
+Esta documentación es una instantánea rápida de mis proyectos en el campo de los datos, mostrando mis habilidades y conocimientos en el área. 
 <br><br>
 **Tabla de contenido:**
 
