@@ -3,20 +3,23 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 <br><br>
 **Tabla de contenido:**
 
-- [IA generativa](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-ia-generativa)
-- [Data Science and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-science-and-machine-learning)
+
 - [Database and Data analytics](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-database-and-data-analytics)
+- [Data Science and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-science-and-machine-learning)
+- [IA generativa](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-ia-generativa)
 - [Programming](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-programming)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
 
-<br><br>
-### 📂 IA generativa
+<br>
+<br>
 
-Project Link | Associated | Tools | Project Description
----|---|---|---
-🦾 [ Fundamentos de Inteligencia artificial](https://github.com/litahu/Repositorio_IA_Guayerd/blob/main/README.md) |  Programa de formación brindado por Guayerd | Python, Prompt Engineering | Los proyectos desarrollados me permitieron perfeccionar la creación de prompts, automatizar procesos y aplicar principios de ética y seguridad de datos en soluciones de IA.
-☁ [ AWS Machine Learning Fundamentals](https://github.com/litahu/Repositorio_Inteligencia_Artificial/blob/main/README.md) |  Proyecto final para Amazon Web Services (AWS) y Udacity | Microservicios de AWS(SageMaker, Lambda, Step Functions) | Este proyecto me ayudó a comprender la utilidad de los microservicios de AWS en el desarrollo de modelos de Machine Learning, los cuales son vitales para crear proyectos escalables, automatizados y fiables.
+### 📂 Database and Data analytics
 
+Project Link | Associated | Area | Tools | Project Description
+---|---|---|---|---
+📦 [Análisis de negocio eCommerce](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_2)  | Guayerd | Data Analysis | Python, Jupyter Notebook y Streamlit | Evalué el desempeño comercial de la tienda "Aurelión" analizando el crecimiento mensual de la actividad del cliente, la calidad mensual de las categorías de productos y el uso del tipo de pago. El análisis utilizó conjuntos de datos que contienen información sobre clientes, vendedores, productos y pedidos. 
+🎫 [Análisis: Captación de Fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/tree/main) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL, MySQL Workbench, Power BI Y Looker Studio para la visualización | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024.
+🛍 [Desafío de SQL](https://github.com/litahu/Challenge-SQL-de-8-semanas)  | Datacamp | Data with Danny | SQL Server, Matplotlib | Me sumergí a diferentes casuísticas de negocios para detectar áreas de oportunidad que pueda desprender acciones, proyectos de mejora, lanzamiento de nuevos productos y toma de decisiones importantes. Me encantó conectar la inteligencia de negocio con soluciones reales.
 
 <br>
 <br>
@@ -29,14 +32,13 @@ Project Link | Associated | Area | Tools | Project Description
 
 <br>
 <br>
+### 📂 IA generativa
 
-### 📂 Database and Data analytics
+Project Link | Associated | Tools | Project Description
+---|---|---|---
+🦾 [ Fundamentos de Inteligencia artificial](https://github.com/litahu/Repositorio_IA_Guayerd/blob/main/README.md) |  Programa de formación brindado por Guayerd | Python, Prompt Engineering | Los proyectos desarrollados me permitieron perfeccionar la creación de prompts, automatizar procesos y aplicar principios de ética y seguridad de datos en soluciones de IA.
+☁ [ AWS Machine Learning Fundamentals](https://github.com/litahu/Repositorio_Inteligencia_Artificial/blob/main/README.md) |  Proyecto final para Amazon Web Services (AWS) y Udacity | Microservicios de AWS(SageMaker, Lambda, Step Functions) | Este proyecto me ayudó a comprender la utilidad de los microservicios de AWS en el desarrollo de modelos de Machine Learning, los cuales son vitales para crear proyectos escalables, automatizados y fiables.
 
-Project Link | Associated | Area | Tools | Project Description
----|---|---|---|---
-📦 [Análisis de negocio eCommerce](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_2)  | Guayerd | Data Analysis | Python, Jupyter Notebook y Streamlit | Evalué el desempeño comercial de la tienda "Aurelión" analizando el crecimiento mensual de la actividad del cliente, la calidad mensual de las categorías de productos y el uso del tipo de pago. El análisis utilizó conjuntos de datos que contienen información sobre clientes, vendedores, productos y pedidos. 
-🎫 [Análisis: Captación de Fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/tree/main) | Sprint3 de Guayerd | Normalización, cardinalidad y creación de base de datos | MySQL, MySQL Workbench, Power BI Y Looker Studio para la visualización | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024.
-🛍 [Desafío de SQL](https://github.com/litahu/Challenge-SQL-de-8-semanas)  | Datacamp | Data with Danny | SQL Server, Matplotlib | Me sumergí a diferentes casuísticas de negocios para detectar áreas de oportunidad que pueda desprender acciones, proyectos de mejora, lanzamiento de nuevos productos y toma de decisiones importantes. Me encantó conectar la inteligencia de negocio con soluciones reales.
 
 <br>
 <br>
