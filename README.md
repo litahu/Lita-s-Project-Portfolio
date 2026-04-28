@@ -3,17 +3,26 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 <br><br>
 **Tabla de contenido:**
 
-
-- [Database and Data analytics](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-database-and-data-analytics)
+- [Business Analyst & Admin Salesforce](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-business-analyst-&-admin-salesforce)
+- [Database & Data analytics](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-database-&-data-analytics)
 - [Data Science and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-science-and-machine-learning)
 - [IA generativa](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-ia-generativa)
-- [Programming](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-programming)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
 
 <br>
 <br>
 
-### 📂 Database and Data analytics
+### 📂 Business Analyst & Admin Salesforce
+
+Project Link | Associated | Tools | Project Description
+---|---|---|---
+🧙‍♀️ [VitaCore CRM App](https://github.com/litahu/Salesforce_Admin)  | Proyecto final - Cooperación Alemana & Guayerd | Sales Cloud, Service Cloud, Community Cloud y Agentforce | Transformé la gestión comercial de VitaCore Labs (B2B salud) mediante una solución integral en Salesforce. Centralicé la operación eliminando registros manuales con automatizaciones en Flow Builder, realicé la migración de datos históricos y diseñé dashboards de desempeño en tiempo real. Además, implementé un portal de autoservicio en Experience Cloud, logrando una arquitectura escalable y segura de soporte para la red de visitadores médicos.
+
+
+<br>
+<br>
+
+### 📂 Database & Data analytics
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
@@ -32,6 +41,7 @@ Project Link | Associated | Area | Tools | Project Description
 
 <br>
 <br>
+
 ### 📂 IA generativa
 
 Project Link | Associated | Tools | Project Description
@@ -39,16 +49,6 @@ Project Link | Associated | Tools | Project Description
 🦾 [ Fundamentos de Inteligencia artificial](https://github.com/litahu/Repositorio_IA_Guayerd/blob/main/README.md) |  Programa de formación brindado por Guayerd | Python, Prompt Engineering | Los proyectos desarrollados me permitieron perfeccionar la creación de prompts, automatizar procesos y aplicar principios de ética y seguridad de datos en soluciones de IA.
 ☁ [ AWS Machine Learning Fundamentals](https://github.com/litahu/Repositorio_Inteligencia_Artificial/blob/main/README.md) |  Proyecto final para Amazon Web Services (AWS) y Udacity | Microservicios de AWS(SageMaker, Lambda, Step Functions) | Este proyecto me ayudó a comprender la utilidad de los microservicios de AWS en el desarrollo de modelos de Machine Learning, los cuales son vitales para crear proyectos escalables, automatizados y fiables.
 
-
-<br>
-<br>
-
-### 📂 Programming
-
-Project Link | Associated | Tools | Project Description
----|---|---|---
-🧙‍♀️ [Amigo secreto](https://github.com/litahu/encrypted_alura)  | Proyecto final - Alura Latam | HTML5, CSS3, JavaScript5 | Desarrollé una página web que realiza un sorteo de nombres
-🔐 [Encriptador](https://github.com/litahu/encrypted_alura)  | Proyecto final - Alura Latam | HTML5, CSS3, JavaScript5 | Desarrollé mi primera página web desde una estructura sólida en html, dinámica con Java y personalización con CSS. Además aprendí como se trabaja dentro de una gestión ágil
 
 <br>
 <br>
