@@ -3,8 +3,8 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 <br><br>
 **Tabla de contenido:**
 
-- [Business Analyst & Admin Salesforce](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-business-analyst-&-admin-salesforce)
-- [Database & Data analytics](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-database-&-data-analytics)
+- [Business Analyst and Admin Salesforce](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-business-analyst-and-admin-salesforce)
+- [Database and Data analytics](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-database-and-data-analytics)
 - [Data Science and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-science-and-machine-learning)
 - [IA generativa](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-ia-generativa)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
