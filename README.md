@@ -12,7 +12,7 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 <br>
 <br>
 
-### 📂 Business Analyst & Admin Salesforce
+### 📂 Business Analyst and Admin Salesforce
 
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
@@ -22,7 +22,7 @@ Project Link | Associated | Tools | Project Description
 <br>
 <br>
 
-### 📂 Database & Data analytics
+### 📂 Database and Data analytics
 
 Project Link | Associated | Area | Tools | Project Description
 ---|---|---|---|---
