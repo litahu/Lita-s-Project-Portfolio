@@ -54,15 +54,15 @@ Project Link | Associated | Tools | Project Description
 
 ### 🏆 Complated Courses and Certifications to understand industries
 
-- [Curso Fundamentos de Inteligencia Artificial](https://drive.google.com/file/d/1CiV0QYqyfBqZYrYNvZTdAUdV7Dk21Nzt/view) | IBM SkillsBuild, Guayerd      --> Dic 2025 
-- [Certificado de AWS ML Fundamentals Nanodegree](https://www.udacity.com/certificate/e/b634143c-2936-11f0-beba-c78c19837db3) | Beca de IA y ML de AWS, Udacity      --> Oct 2025 
-- [Curso de Introducción a Machine Learning](https://drive.google.com/file/d/11FsmHiDGzSGY8JUiGyVLdUS3NL6F_IvL/view) | Beca Jump      --> May 2025  
-- [Curso de Programación de IA con Python](https://www.udacity.com/certificate/e/1f16f324-8b40-11ef-9723-77745f0c674c) | Beca AWS, Udacity      --> Mar 2025
-- [Certificado Ingeniería de datos asociado en SQL ](https://drive.google.com/file/d/1XwigKGcWOs134imjavCxzJWooO6mILXe/view) | Datacamp      --> Ene 2025
-- [Certificado Análisis de datos asociado en SQL](https://drive.google.com/file/d/1d1aS59j22428Z05ecCv1bVEqBV9kKt7n/view) | Datacamp      --> Dic 2024 
-- [Curso Fundamentos de Análisis de datos](https://drive.google.com/file/d/19tZfL-TS7rgZfkwGivwyxOWR-UnSZHGx/view) | IBM SkillsBuild, Guayerd, Udemy      --> Nov 2024
-- [Certificado Formación iniciante en programación(HTML, CSS y JS)](https://drive.google.com/file/d/1UnVxnSnRD10uw3eBl588r8udKvBBNJbO/view) | Alura Latam      --> Ago 2024
-- [Curso de Gestión de proyectos software con Git y Github](https://drive.google.com/file/d/1R1yeE6CZESIdlxGhZHvbxvK9mNexUMNx/view) | Miriadax         --> May  2024  
+- [Curso Fundamentos de Inteligencia Artificial](https://drive.google.com/file/d/1CiV0QYqyfBqZYrYNvZTdAUdV7Dk21Nzt/view) | IBM SkillsBuild, Guayerd ( Dic 2025 ) 
+- [Certificado de AWS ML Fundamentals Nanodegree](https://www.udacity.com/certificate/e/b634143c-2936-11f0-beba-c78c19837db3) | Beca de IA y ML de AWS, Udacity ( Oct 2025 ) 
+- [Curso de Introducción a Machine Learning](https://drive.google.com/file/d/11FsmHiDGzSGY8JUiGyVLdUS3NL6F_IvL/view) | Beca Jump ( May 2025 )  
+- [Curso de Programación de IA con Python](https://www.udacity.com/certificate/e/1f16f324-8b40-11ef-9723-77745f0c674c) | Beca AWS, Udacity ( Mar 2025 )
+- [Certificado Ingeniería de datos asociado en SQL ](https://drive.google.com/file/d/1XwigKGcWOs134imjavCxzJWooO6mILXe/view) | Datacamp ( Ene 2025 )
+- [Certificado Análisis de datos asociado en SQL](https://drive.google.com/file/d/1d1aS59j22428Z05ecCv1bVEqBV9kKt7n/view) | Datacamp ( Dic 2024 ) 
+- [Curso Fundamentos de Análisis de datos](https://drive.google.com/file/d/19tZfL-TS7rgZfkwGivwyxOWR-UnSZHGx/view) | IBM SkillsBuild, Guayerd, Udemy ( Nov 2024 )
+- [Certificado Formación iniciante en programación(HTML, CSS y JS)](https://drive.google.com/file/d/1UnVxnSnRD10uw3eBl588r8udKvBBNJbO/view) | Alura Latam ( Ago 2024 )
+- [Curso de Gestión de proyectos software con Git y Github](https://drive.google.com/file/d/1R1yeE6CZESIdlxGhZHvbxvK9mNexUMNx/view) | Miriadax ( May  2024 )  
 
 
 
