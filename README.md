@@ -61,5 +61,10 @@ Project Link | Associated | Tools | Project Description
 - [Certificado Análisis de datos asociado en SQL](https://drive.google.com/file/d/1d1aS59j22428Z05ecCv1bVEqBV9kKt7n/view) | Datacamp
 - [Certificado Ingeniería de datos asociado en SQL ](https://drive.google.com/file/d/1XwigKGcWOs134imjavCxzJWooO6mILXe/view) | Datacamp
 - [Curso de Programación de IA con Python](https://www.udacity.com/certificate/e/1f16f324-8b40-11ef-9723-77745f0c674c) | AWS + Udacity
+- (May  2024) [Curso de Gestión de proyectos software con Git y Github](https://drive.google.com/file/d/1R1yeE6CZESIdlxGhZHvbxvK9mNexUMNx/view) | Miriadax  
+
+
+
+
 
 
