@@ -16,7 +16,7 @@ Esta documentación es una instantánea rápida de mis proyectos en el campo de 
 
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
-🚚 [APP operativa para la Comercializadora Andina SAC](https://github.com/litahu/app_andina_sac/tree/main)  | Proyecto final para Stratix Digital | Modelado del Schema Builder, Diseño de Formularios, Reglas de Validación, Flow Builder e Ingesta de Datos | Implementé una App operativo en Salesforce Sales Cloud para centralizar la gestión comercial, mejorar el seguimiento de oportunidades y brindar visibilidad ejecutiva del pipeline.
+🚚 [Sales Cloud de Comercializadora Andina SAC](https://github.com/litahu/app_andina_sac/tree/main)  | Proyecto final para Stratix Digital | Modelado del Schema Builder, Diseño de Formularios, Reglas de Validación, Flow Builder e Ingesta de Datos | Implementé una App operativo en Salesforce Sales Cloud para centralizar la gestión comercial, mejorar el seguimiento de oportunidades y brindar visibilidad ejecutiva del pipeline.
 🧙‍♀️ [CRM para VitaCore LAB](https://github.com/litahu/Salesforce_Admin)  | Proyecto final - Cooperación Alemana & Guayerd | Sales Cloud, Service Cloud, Community Cloud y Agentforce | Transformé la gestión comercial de VitaCore Labs (B2C) mediante una solución integral en Salesforce. Centralicé la operación eliminando registros manuales con automatizaciones en Flow Builder, realicé la migración de datos históricos y diseñé dashboards de desempeño en tiempo real. Además, implementé un portal de autoservicio en Experience Cloud, logrando una arquitectura escalable y segura de soporte para la red de visitadores médicos.
 
 <br>
